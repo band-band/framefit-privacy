@@ -87,7 +87,8 @@ Limited Use requirements.
 ## Changes and contact
 
 Updates to data-handling practices will be reflected here and in the store disclosures.
-For privacy questions, use the project's
+For privacy questions, email [bandthedev@gmail.com](mailto:bandthedev@gmail.com)
+or use the project's
 [public support page](https://github.com/band-band/framefit-privacy/issues). Do not include
 passwords, private browsing details, or other sensitive information in a public issue.
 
