@@ -7,6 +7,7 @@ This public repository contains only the privacy policy and support information.
 
 - [Read the privacy policy](PRIVACY.md)
 - [Ask for help or report an issue](https://github.com/band-band/framefit-privacy/issues)
+- Email support: [bandthedev@gmail.com](mailto:bandthedev@gmail.com)
 
 For a bug report, include your FrameFit version, Chrome version, operating system,
 website domain, selected mode, and what happened. Please avoid posting account
